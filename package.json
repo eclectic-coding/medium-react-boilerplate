@@ -47,7 +47,7 @@
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-react": "^7.28.0",
     "husky": "^7.0.4",
-    "lint-staged": "^12.1.6",
+    "lint-staged": "^12.1.7",
     "parcel-bundler": "^1.12.5",
     "prettier": "^2.5.1"
   }
